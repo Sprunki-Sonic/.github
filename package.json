@@ -1,0 +1,27 @@
+{
+  "name": "sprunki-sonic-mod",
+  "version": "1.0.0",
+  "description": "A horror-themed rhythm game featuring a dark twist on Sonic.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "game",
+    "rhythm",
+    "horror",
+    "sonic",
+    "mod"
+  ],
+  "author": "[Your Name]",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "dotenv": "^10.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
