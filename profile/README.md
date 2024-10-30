@@ -4,6 +4,8 @@ Welcome to the repository for Sprunki Sonic MOD, a unique horror-themed rhythm g
 
 ## [PLAY SPRUNKI SONIC NOW!](https://tinyurl.com/3nsmpyn6)
 
+## [PLAY SPRUNKI PHASE 7!](https://github.com/Sprunki-Phase-7)
+
 ![sprunki-sonic-apk](https://github.com/user-attachments/assets/4f3b70d2-fe6c-4c0e-bc4f-f59bd3e9f612)
 
 ## Introduction
