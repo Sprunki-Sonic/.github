@@ -51,7 +51,7 @@ For Vercel:
 Import your GitHub repository into Vercel.
 Vercel will automatically detect settings and deploy your site.
 Contributing
-We welcome contributions to improve Sprunki Sonic MOD! If you have suggestions or improvements:
+We welcome contributions to improve [Sprunki](https://github.com/Incredibox-Mustard-Colorbox-Mustard) Sonic MOD! If you have suggestions or improvements:
 
 Fork the repository.
 Create a new branch:
