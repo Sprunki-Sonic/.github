@@ -8,7 +8,7 @@ Welcome to the repository for Sprunki Sonic MOD, a unique horror-themed rhythm g
 
 ## Introduction
 
-Sprunki Sonic MOD offers an immersive fusion of horror and rhythm, transforming the Sonic we know into a darker, more sinister character. This repository provides key information about gameplay, features, and community involvement, inviting players to tackle the rhythmic horror adventure.
+[Sprunki Sonic MOD](https://github.com/Sprunk-Jogo) offers an immersive fusion of horror and rhythm, transforming the Sonic we know into a darker, more sinister character. This repository provides key information about gameplay, features, and community involvement, inviting players to tackle the rhythmic horror adventure.
 
 ## Key Features
 
